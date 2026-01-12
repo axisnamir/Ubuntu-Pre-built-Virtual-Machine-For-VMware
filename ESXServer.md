@@ -1,1 +1,0 @@
-Guys im making Ubuntu server Any esxi Version Would Supported Like ESxi 7.0 Also the 6.5 Would be ubuntu server 22.04 IS lightweight server you can do with this Also If you esxi 7.0 ubuntu Check my github @axisnamir ask me in twitter Thank you
