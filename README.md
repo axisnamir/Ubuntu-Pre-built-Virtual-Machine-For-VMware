@@ -1,5 +1,5 @@
 # Fedora-Pre-built-Virtual-Machine-For-VMware
-Hello This Is Axis Namir We talking Talking About ubuntu pre-built virtual machine for vmware There is desktop enviroment Like Cinnamon And GNOME KDE .etc Many Desktop Enviroment is coming soon If you wish to do the download link is coming soon 
+Hello This Is Axis Namir We talking Talking About Fedora pre-built virtual machine for virtualbox There is desktop enviroment Like Cinnamon And GNOME KDE .etc Many Desktop Enviroment is coming soon If you wish to do the download link is coming soon 
 There Is Some Limitation On Fedora And Zorin
 1 If you using Workstation 5 and older It will not Compatible 25H2 is the Stable one It works with player and fusion 
 Its Possible That ESXi Wont Work Because We Would Do Ubuntu Server For VMware ESXi In Feb 18
@@ -21,3 +21,4 @@ Since WSL Is terminal we will not do
 Let me decide that i will use ultramine 
 We will create facebook page
 Also i will do nobara
+It wont work vbox old version like 4.0 6.0 also 7.0 7.1 it works ony 7.2
